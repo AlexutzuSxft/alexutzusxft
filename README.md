@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Alex 👋</h1>
+<h3 align="center">Tech enthusiast | Software Developer | Hardware Hacker</h3>
 
-<!--
-**AlexutzuSxft/AlexutzuSxft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Creator+of+TreeSoft+%F0%9F%92%BB;Hacking+%26+Security+Geek+%F0%9F%94%90;Python%2C+C%23%2C+C%2B%2B%2C+Java%2C+JS+Dev;Always+building+something+awesome+..." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🧠 I’m a self-taught developer from Romania.
+- 🛠️ Co-founder of **TreeSoft** & creator of **Sxft**.
+- 💡 I build everything from hacking tools and bots to full-stack apps.
+- 🔧 Obsessed with low-level systems, embedded tech, and cybersecurity.
+- 🚀 Currently working on:
+  - `Sylva`: a custom programming language 🧬
+  - `sxft.hub`: a modern hacking toolkit 🔍
+  - `Chatly`: an AI assistant based on multiple Ollama Models 🤖
+- 🎯 Goal: Become a multi-millionaire by 18 through software, trading, and innovation.
+
+---
+
+### 🧰 Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)  
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry-pi)  
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alexutzusxft&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=alexutzusxft&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fGfBcU63Bm)  
+
+---
+
+> ⚡ “I don’t just build software — I build futures.”
+
+---
