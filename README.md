@@ -2,7 +2,7 @@
 <h3 align="center">Tech enthusiast | Software Developer | Hardware Hacker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Creator+of+TreeSoft+%F0%9F%92%BB;Hacking+%26+Security+Geek+%F0%9F%94%90;Python%2C+C%23%2C+C%2B%2B%2C+Java%2C+JS+Dev;Always+building+something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=539165&center=true&vCenter=true&width=435&lines=Creator+of+TreeSoft+%F0%9F%92%BB;Hacking+%26+Security+Geek+%F0%9F%94%90;Python%2C+C%23%2C+C%2B%2B%2C+Java%2C+JS+Dev;Always+building+something" alt="Typing SVG" />
 </p>
 
 ---
