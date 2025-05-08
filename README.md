@@ -2,7 +2,7 @@
 <h3 align="center">Tech enthusiast | Software Developer | Hardware Hacker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Creator+of+TreeSoft+%F0%9F%92%BB;Hacking+%26+Security+Geek+%F0%9F%94%90;Python%2C+C%23%2C+C%2B%2B%2C+Java%2C+JS+Dev;Always+building+something+awesome+..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Creator+of+TreeSoft+%F0%9F%92%BB;Hacking+%26+Security+Geek+%F0%9F%94%90;Python%2C+C%23%2C+C%2B%2B%2C+Java%2C+JS+Dev;Always+building+something" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,6 @@
   - `Sylva`: a custom programming language 🧬
   - `sxft.hub`: a modern hacking toolkit 🔍
   - `Chatly`: an AI assistant based on multiple Ollama Models 🤖
-- 🎯 Goal: Become a multi-millionaire by 18 through software, trading, and innovation.
 
 ---
 
@@ -40,7 +39,6 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alexutzusxft&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=alexutzusxft&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,6 +49,6 @@
 
 ---
 
-> ⚡ “I don’t just build software — I build futures.”
+> ⚡ "Exploring tech. Building code. Exploiting systems."
 
 ---
