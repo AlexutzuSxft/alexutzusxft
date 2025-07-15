@@ -35,17 +35,6 @@
 
 ---
 
-### 📊 GitHub Commits
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexutzusxft/alexutzusxft/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexutzusxft/alexutzusxft/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/alexutzusxft/alexutzusxft/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
----
-
 ### 🔗 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fGfBcU63Bm)  
