@@ -35,11 +35,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Commits
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alexutzusxft&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexutzusxft/alexutzusxft/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexutzusxft/alexutzusxft/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/alexutzusxft/alexutzusxft/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ---
 
